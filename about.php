@@ -22,7 +22,7 @@
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js" integrity="sha384-ZoaMbDF+4LeFxg6WdScQ9nnR1QC2MIRxA1O9KWEXQwns1G8UNyIEZIQidzb0T1fo" crossorigin="anonymous"></script>
 <![endif]-->
 
-<section id="about">
+<section id="about" class="bg-light-gray">
 
     <h1 class="text-center">About Me</h1>
 

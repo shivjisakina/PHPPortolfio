@@ -12,21 +12,6 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="team-member">
-                    <h4>HTML</h4>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
-                    <h4>CSS</h4>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
-                    <h4>Bootstrap</h4>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
                     <h4>Javascript</h4>
                 </div>
             </div>
@@ -72,12 +57,57 @@
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
+                    <h4>MySQL</h4>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <h4>MongoDB</h4>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <h4>MongoJS</h4>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <h4>Mongoose</h4>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <h4>React</h4>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <h4>PHP</h4>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
                     <h4>MVC Structure</h4>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
                     <h4>Test Driven Development</h4>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <h4>HTML</h4>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <h4>CSS</h4>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <h4>Bootstrap</h4>
                 </div>
             </div>
 

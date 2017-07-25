@@ -1,7 +1,7 @@
 <?php include 'includes/header.php';?>
 
 <!-- Experience Section -->
-<section id="experience">
+<section id="experience" class="bg-light-gray">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">

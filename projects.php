@@ -1,7 +1,7 @@
 <?php include 'includes/header.php';?>
 
 <!-- Portfolio Grid Section -->
-<section id="portfolio">
+<section id="portfolio" class="bg-light-gray">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
