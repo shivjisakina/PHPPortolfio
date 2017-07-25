@@ -24,8 +24,6 @@
 
 <section id="about" class="bg-light-gray">
 
-    <h1 class="text-center">About Me</h1>
-
     <br>
     <br>
 
